@@ -1,0 +1,23 @@
+node_modules
+npm-debug.log
+.DS_Store
+config/development.*
+config/production.*
+workers/reports/config/development.*
+workers/reports/config/production.*
+dump.rdb
+
+# generate POT file every time you want to update your PO file
+languages/mailtrain.pot
+
+public/mosaico/uploads/*
+!public/mosaico/uploads/README.md
+public/mosaico/custom/*
+!public/mosaico/custom/README.md
+public/mosaico/templates/*
+!public/mosaico/templates/versafix-1
+
+public/grapejs/uploads/*
+!public/grapejs/uploads/README.md
+public/grapejs/templates/*
+!public/grapejs/templates/demo
