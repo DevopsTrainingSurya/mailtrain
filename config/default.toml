@@ -1,5 +1,6 @@
 # This file is the default config file for Mailtrain. To use a environment specific
 # configuration add new file {ENV}.{ext} (eg. "production.toml") to the same folder.
+#new line from server krishna
 # {ENV} is defined by NODE_ENV environment variable.
 #
 # Do not modify this file directly, otherwise you might lose your modifications when upgrading
